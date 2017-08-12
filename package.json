@@ -1,0 +1,13 @@
+{
+    "name"         : "node-red-contrib-citygml",
+    "version"      : "0.0.1",
+    "description"  : "A node for node-red to process csv file containing lat and lon values of a building footprint obtained from OSM and generates CityGML building at LoD2+",
+    "dependencies": {
+    },
+    "keywords": [ "node-red" ],
+    "node-red"     : {
+        "nodes": {
+            "sample": "demoNodes/HelloWorld.js"
+        }
+    }
+}
